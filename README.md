@@ -69,7 +69,7 @@ SQLite, Python, pandas, matplotlib, Jupyter. Tested with pandas 2.3.3.
 
 ## Data Source
 
-Chinook sample database, originally created by Luis Rocha ([source and license](https://github.com/lerocha/chinook-database/).
+Chinook sample database, originally created by Luis Rocha ([source and license](https://github.com/lerocha/chinook-database/)).
 
 In this version of the database, invoice dates range from 2021-01-01 to 2025-12-22. This is sample data, so the conclusions should not be extrapolated to a real business.
 
@@ -77,4 +77,4 @@ In this version of the database, invoice dates range from 2021-01-01 to 2025-12-
 
 The Chinook database is distributed under the MIT License. Copyright (c) 2008–2024 Luis Rocha.
 
-The original MIT License and its copyright notice are available in the [Chinook repository](https://github.com/lerocha/chinook-database/).
+The original MIT License and its copyright notice are available in the ([Chinook repository](https://github.com/lerocha/chinook-database/)).
