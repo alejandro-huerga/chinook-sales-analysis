@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+Data/*.sqlite
+*.session.sql
