@@ -67,8 +67,14 @@ with `pandas.read_sql_query`.
 
 SQLite, Python, pandas, matplotlib, Jupyter. Tested with pandas 2.3.3.
 
-## Data source and limitations
+## Data Source
 
-Chinook sample database, [LINK TO SOURCE AND LICENSE]. In this version of the file,
-invoice dates range from 2021-01-01 to 2025-12-22. This is sample data, so the
-conclusions should not be extrapolated to a real business.
+Chinook sample database, originally created by Luis Rocha ([source and license](https://github.com/lerocha/chinook-database/).
+
+In this version of the database, invoice dates range from 2021-01-01 to 2025-12-22. This is sample data, so the conclusions should not be extrapolated to a real business.
+
+## License
+
+The Chinook database is distributed under the MIT License. Copyright (c) 2008–2024 Luis Rocha.
+
+The original MIT License and its copyright notice are available in the [Chinook repository](https://github.com/lerocha/chinook-database/).
